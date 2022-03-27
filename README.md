@@ -2,7 +2,7 @@
 
 ### Hey!
 
-I'm someone who is passionate about **Minecraft** and likes to **write code**.
+I'm someone who is passionate about **Game Servers** and likes to **write code**.
 
 <br>
 
